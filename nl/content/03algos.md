@@ -10,9 +10,7 @@ Wat zijn die algoritmen waar steeds over wordt gesproken?
 Die onzichtbare en prikkelende wezens die in onze gedachten binnenglippen en 
 onze zakken bewonen.  Wat zijn hun bedoelingen?
 
-Formeel gezien is een algoritme niets meer dan een onschuldige reeks van
-verrichtingen die door gegevens worden gevoed om tot een resultaat te komen.
-En toch, ze automatiseren oplossingen voor een hele resem aan complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
+Formeel gezien is een algoritme niets meer dan een onschuldige reeks verrichtingen die door gegevens worden gevoed om tot een resultaat te komen. En toch, ze automatiseren oplossingen voor een hele resem complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
 
 ## Een bestiarium [^3] van algoritmen
 
