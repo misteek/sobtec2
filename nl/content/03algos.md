@@ -10,9 +10,7 @@ Wat zijn die algoritmen waar steeds over wordt gesproken?
 Die onzichtbare en prikkelende wezens die in onze gedachten binnenglippen en 
 onze zakken bewonen.  Wat zijn hun bedoelingen?
 
-Formeel gezien is een algoritme niets meer dan een onschuldige reeks van
-verrichtingen die door gegevens worden gevoed om tot een resultaat te komen.
-En toch, ze automatiseren oplossingen voor een hele resem aan complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
+Formeel gezien is een algoritme niets meer dan een onschuldige reeks verrichtingen die door gegevens worden gevoed om tot een resultaat te komen. En toch, ze automatiseren oplossingen voor een hele resem complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
 
 ## Een bestiarium [^3] van algoritmen
 
@@ -29,13 +27,17 @@ Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische h
 
 ### Algoritmen die onze persoonlijke gegevens vreten
 
-De resulterende algoritmen zijn polymorf.  Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minitieus alles over onze online activiteiten en plaatsen die we het meest regelmatig bezoeken.
-Zij zijn intussen over deze interacties uitgestegen om beter te kunnen bepalen wie
-het meest autoriteit heeft, zonder rekening te houden met de logica van volksstemmingen en ordeningen op basis van feitelijke verdienste.
+Het is hier ook belangrijk te vermelden dat domme algoritmes die gevoed worden met veel goede data meer succes zullen boeken dan de beroemde kunstmatige intelligentie, ook al is deze categorie in staat om scherper uit de hoek te komen.
+Laten we bekende vormen niet vergeten te citeren uit de Amerikaanse echelons, de GAFAM (Google, Apple, Facebook, Amazon en Microsoft) of BATX, hun alter-ego's die zich ophouden aan de andere kant van de Stille Oceaan (de Chinese reuzen: Baidu, Alibaba, Tencent en Xiaomi).
+Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische hoeveelheden gegevens over onze onooglijkste handelingen en gebaren, onze dagelijkse activiteiten aangevuld met gegevens van grote aantallen mobiele apps en onderling verbonden substructuren die ons leven zouden moeten vergemakkelijken.
 
-Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analyseerden de kwaliteit en frequentie van onze onderlinge uitwisselingen om onze reputatie te beoordelen en onze affiniteiten te achterhalen.
+### Algoritmen die onze persoonlijke gegevens vreten
 
-Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn on ons daarmee te kunnen manipuleren.
+De resulterende algoritmen zijn polymorf.  Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minutieus alles over onze online activiteiten en plaatsen die we het meest bezoeken. Ze hebben ondertussen onze interacties overstegen om beter te kunnen bepalen wie het meest autoriteit heeft, om van de logica van de populaire stemming over te gaan naar die van de meritocratische ordening.
+
+Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analyseerden de kwaliteit en frequentie van onze onderlinge uitwisselingen om onze reputatie te beoordelen en ons netwerk te achterhalen.
+
+Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen en ons daarmee te manipuleren
 
 | | **Aan één zijde** | **Above** | **Within** | **Beneden** |
 | --- | --- | --- | ---| --- |
