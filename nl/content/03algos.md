@@ -10,9 +10,7 @@ Wat zijn die algoritmen waar steeds over wordt gesproken?
 Die onzichtbare en prikkelende wezens die in onze gedachten binnenglippen en 
 onze zakken bewonen.  Wat zijn hun bedoelingen?
 
-Formeel gezien is een algoritme niets meer dan een onschuldige reeks van
-verrichtingen die door gegevens worden gevoed om tot een resultaat te komen.
-En toch, ze automatiseren oplossingen voor een hele resem aan complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
+Formeel gezien is een algoritme niets meer dan een onschuldige reeks verrichtingen die door gegevens worden gevoed om tot een resultaat te komen. En toch, ze automatiseren oplossingen voor een hele resem complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
 
 ## Een bestiarium [^3] van algoritmen
 
@@ -29,13 +27,17 @@ Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische h
 
 ### Algoritmen die onze persoonlijke gegevens vreten
 
-De resulterende algoritmen zijn polymorf.  Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minitieus alles over onze online activiteiten en plaatsen die we het meest regelmatig bezoeken.
-Zij zijn intussen over deze interacties uitgestegen om beter te kunnen bepalen wie
-het meest autoriteit heeft, zonder rekening te houden met de logica van volksstemmingen en ordeningen op basis van feitelijke verdienste.
+Het is hier ook belangrijk te vermelden dat domme algoritmes die gevoed worden met veel goede data meer succes zullen boeken dan de beroemde kunstmatige intelligentie, ook al is deze categorie in staat om scherper uit de hoek te komen.
+Laten we bekende vormen niet vergeten te citeren uit de Amerikaanse echelons, de GAFAM (Google, Apple, Facebook, Amazon en Microsoft) of BATX, hun alter-ego's die zich ophouden aan de andere kant van de Stille Oceaan (de Chinese reuzen: Baidu, Alibaba, Tencent en Xiaomi).
+Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische hoeveelheden gegevens over onze onooglijkste handelingen en gebaren, onze dagelijkse activiteiten aangevuld met gegevens van grote aantallen mobiele apps en onderling verbonden substructuren die ons leven zouden moeten vergemakkelijken.
 
-Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analyseerden de kwaliteit en frequentie van onze onderlinge uitwisselingen om onze reputatie te beoordelen en onze affiniteiten te achterhalen.
+### Algoritmen die onze persoonlijke gegevens vreten
 
-Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn on ons daarmee te kunnen manipuleren.
+De resulterende algoritmen zijn polymorf.  Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minutieus alles over onze online activiteiten en plaatsen die we het meest bezoeken. Ze hebben ondertussen onze interacties overstegen om beter te kunnen bepalen wie het meest autoriteit heeft, om van de logica van de populaire stemming over te gaan naar die van de meritocratische ordening.
+
+Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analyseerden de kwaliteit en frequentie van onze onderlinge uitwisselingen om onze reputatie te beoordelen en ons netwerk te achterhalen.
+
+Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen en ons daarmee te manipuleren
 
 | | **Aan één zijde** | **Above** | **Within** | **Beneden** |
 | --- | --- | --- | ---| --- |
@@ -45,27 +47,26 @@ Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste v
 | **Berekeningstype** | Vote | Classificatie naar verdienste | Benchmark | Machineeducatie |
 | **Principe** | Populariteit | Autoriteit | Reputatie | Voorspelling |
 
-*Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4]
+*Volgens Domenique Cardon in "À quoi rêvent les algorithmes"* [^4]
 
 Deze verschillende generaties van algoritmen leven nog steeds naast elkaar, en zijn goed herkenbaar in die zin dat ze ons zeer efficiënt ten dienste staan via allerlei diensten.
-Ze proberen ons "digitaal dividend" [^5] ten gelde te maken doordat ze ons bestaan discreet opdelen en van daaruit in staat is het in de fijnst mogelijke plakjes te versnijden, en op basis daarvan de mogelijk verschaft is al deze informatie die van nu zou kunnen zijn te extraheren [^6].
+Ze proberen ons "digitaal dividend" [^5] te laten betalen doordat ze ons bestaan opdelen in heel fijne stukken om er zoveel mogelijk informatie uit te onttrekken.  [^6].
 
-Elke staat kweekt een angstaanjagende mensenetende reus (verder oger) die werkt in de surveillance.
-De belangen van deze oger vermengen zich vaak met die van haar vrienden de commerciële ogers, die met goedkeuring op schaamteloze wijze haar winkels overvalt [^7].
-Zijn onverzadigbare eetlust leidt het tot het stalken op plaatsen met de meeste dataverkeer.
-Het wordt verondersteld dat je in een hooiberg een terrorist moet kunnen vinden, hoewel het vaak lijdt aan bijziendheid en obesitas, en het blijkt een efficiënter middel bij het stelen van politieke en industriële geheimen dan om slechteriken voor te zijn voordat ze tot actie overgaan.
+Elke staat kweekt een angstaanjagende monster die werkt in de surveillance.
+De belangen van dit monster vermengen zich vaak met die van haar vrienden de commerciële monsters, die met goedkeuring op schaamteloze wijze haar winkels overvalt [^7].
+Met zijn onverzadigbare eetlust stalkt hij plaatsen met de meeste dataverkeer.
+
+Er wordt verondersteld dat het een terrorist in een hooiberg zou moeten vinden, hoewel het vaak lijdt aan bijziendheid en obesitas, waardoor het efficiënter blijkt in het stelen van politieke- en industriële geheimen dan in het vangen van slechteriken voor ze iets mispeuteren.
 
 ### Algoritmen die publieke data vreten
 
-De verschillende bestuurslagen van die de orde in stand houden cultiveren ook bloeiende tuinen met veel geparfumeerde data: biometrische, fiscale, milieugerelateerd,
-stedelijk, professioneel of zelfs verband houdend met gezondheid.
+De verschillende bestuurslagen die de orde in stand houden cultiveren ook bloeiende tuinen met veel geparfumeerde data: biometrische, fiscale, milieu-gerelateerd, stedelijk, professioneel of zelfs gezondheid.
 
-Blijkbaar zijn deze openbare algoritmische wezens neutraal en objectief, en zouden de oplossing zijn om ongelijkheid in behandeling ten opzichte van de vaststellingen van sommige ambtenaren.
-Toch kunnen ze hele families in kafkaiaanse insecten veranderen die in de film aan de typemachine hangen in *Brasil* [^8].
-In feite zijn zij het die bepalen naar welke school ons kind moet gaan, of u sociale bijstand kunt krijgen, voor welke banen u kunt solliciteren en als uw menstruatiecyclus geschikt om u voort te planten.  
+Blijkbaar zijn deze openbare algoritmische wezens neutraal en objectief, en zouden de oplossing zijn om ongelijke behandeling door sommige ambtenaren tegen te gaan. Toch kunnen ze hele families in kafkaiaanse insecten veranderen die in de film *Brasil* [^8] aan de typemachine hangen. In feite zijn zij het die bepalen naar welke school ons kind moet gaan, of u sociale bijstand kunt krijgen, voor welke banen u kunt solliciteren en of uw menstruatiecyclus op punt staat om u voort te planten.  
 
 De handelaars in persoonsgegevens bieden vriendelijk hun diensten aan overheidsinstanties om te helpen bij het ontleden en klonen van de mooiste planten in de openbare tuin, sierbloemen of geneeskrachtige kruiden.
-Net als deze handelaars, wert de macht van de orde over observatie naar voorspelling, en niet alleen om hun digitale storthoop te optimaliseren, maar ook om politiediensten te sturen naar plaatsen waar de kans op een misdrijf het grootst is worden geëngageerd dankzij hun algo-dogs, PredPol CompStat of HunchLab [^9].
+
+Net als de handelaars gaan de ordehandhavers van observaties naar voorspellingen en niet alleen om de digitale afhaalhoop te optimaliseren, maar sturen, maar ook om politiediensten te sturen naar plaatsen waar de kans op een misdrijf het grootst is worden, dankzij hun algoritme-honden, PredPol CompStat of HunchLab [^9].
 
 ### Algoritmen die geld vreten
 
