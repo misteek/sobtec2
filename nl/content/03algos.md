@@ -5,40 +5,36 @@
 
 ![](../../bijdrage/gfx/illustraties/algoritmos-halfsize.png)
 
-We horen er veel over, maar we zien ze nooit.
-Wat zijn deze algoritmen?
-Deze onzichtbare en prikkelende wezens die in onze gedachten glippen en bewonen
-onze zakken.
-Wat zijn hun bedoelingen?
+e hoort er veel over, maar je ziet ze nooit.
+Wat zijn die algoritmen waar steeds over wordt gesproken?
+Die onzichtbare en prikkelende wezens die in onze gedachten binnenglippen en 
+onze zakken bewonen.  Wat zijn hun bedoelingen?
 
-Formeel gezien is een algoritme niets meer dan een niet-beledigende reeks van
+Formeel gezien is een algoritme niets meer dan een onschuldige reeks van
 verrichtingen die door gegevens worden gevoed om tot een resultaat te komen.
-Toch automatiseren ze de oplossing van een reeks complexe problemen [^2] en dat is hoe sommigen van hen een hoog niveau van kunstmatige intelligentie te worden, dankzij bedrijven die ze vullen met gegevens, vriendelijk door ons gratis verstrekt.
+En toch, ze automatiseren oplossingen voor een hele resem aan complexe problemen [^2] en dat is hoe sommigen opklimmen tot het hogere niveau van kunstmatige intelligentie, met dank aan bedrijven die ze voeden met gegevens, belangeloos en gratis verstrekt door ons.
 
 ## Een bestiarium [^3] van algoritmen
 
-Er is geen vergelijking voor weten wat ze eten en identificeren en beter het begrijpen van hun rol in een samenleving van geïnformatiseerde mensen.
-Zij waren niet geboren uit een elektrische vonk op de bodem van een zwavelhoudende zee van gegevens.
-Hun stamouders zijn de mensen die de regels code schrijven die een programma dat een politiek en sociaal project in zich draagt dat wordt bepaald door een publieke of particuliere sponsor.
+Het is niet exact geweten waarmee ze gevoederd worden en evenmin is er weinig bekend over wat hun rol is een samenleving van geïnformatiseerde mensen.
+Zij zijn niet ontstaan uit een elektrische vonk op de bodem van een zwavelhoudende zee van data.
+Hun stamouders zijn mensen die de code schrijven dat een programma vormt dat een politiek en sociaal project in zich draagt, gedicteerd door publieke of particuliere sponsors.
 
-Algoritmen zijn nooit "neutraal" of onpartijdig.
-Ze zijn gericht op het uitvoeren van de die aan hen zijn toegewezen, gewoonlijk door westerse mannetjes uit de hogere klassen, gekluisterd door het kapitalisme.
+Algoritmen zijn als zodanig nooit "neutraal" of onpartijdig.
+Ze zijn gericht op het uitvoeren van taken die aan hen zijn toegewezen, gewoonlijk door westerse mannen uit de hogere klassen, ingebed in het kapitalisme.
 
-Het is ook belangrijk om te vermelden dat een dom algoritme gevoed met veel goede gegevens zullen meer succes hebben dan de beroemde kunstmatige intelligentie, zelfs als
-deze laatste heeft scherpere klauwen.
-Hoe kunnen we niet citeren die Amerikaanse ogres, de GAFAM (Google, Apple, Facebook, Amazon en Microsoft) of BATX, hun alter-ego's aan de andere kant van de Stille Oceaan (de Chinese reuzen: Baidu, Alibaba, Tencent en Xiaomi).
-Hun metabolisme is gebaseerd op de collectie, met onze hulp, van de maximale hoeveelheid gegevens over onze kleinste handelingen en gebaren, onze dagelijkse activiteiten "verhogen" met een groot aantal mobiele apps en onderling verbonden voorwerpen die ons leven zouden moeten vergemakkelijken.
+Het is hier ook belangrijk te vermelden dat domme algoritmes die gevoed worden met veel goede data meer succes zullen boeken dan de beroemde kunstmatige intelligentie, ook al is deze categorie in staat om scherper uit de hoek te komen.
+Laten we bekende vormen niet vergeten te citeren uit de Amerikaanse echelons, de GAFAM (Google, Apple, Facebook, Amazon en Microsoft) of BATX, hun alter-ego's die zich ophouden aan de andere kant van de Stille Oceaan (de Chinese reuzen: Baidu, Alibaba, Tencent en Xiaomi).
+Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische hoeveelheden gegevens over onze onooglijkste handelingen en gebaren, onze dagelijkse activiteiten aangevuld met gegevens van grote aantallen mobiele apps en onderling verbonden substructuren die ons leven zouden moeten vergemakkelijken.
 
-### Algoritmen die onze persoonlijke gegevens opeten
+### Algoritmen die onze persoonlijke gegevens vreten
 
-De resulterende algoritmen zijn polymorf.
-Ze zijn gegroeid, ons observerend van veraf, bespioneren onze activiteiten online, en de plaatsen die we het meest frequent.
-Zij dan boven onze interacties uitstijgt om beter te kunnen bepalen wie
-autoriteit, zonder rekening te houden met de logica van het stemmen door de bevolking en classificaties op basis van verdienste.
+De resulterende algoritmen zijn polymorf.  Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minutieus alles over onze online activiteiten en plaatsen die we het meest bezoeken. Ze hebben ondertussen onze interacties overstegen om beter te kunnen bepalen wie het meest autoriteit heeft, om van de logica van de populaire stemming over te gaan naar die van de meritocratische ordening.
 
-Daarna, in een derde moment, gingen ze onze digitale intimiteit binnen, en analyseerden ze de kwaliteit en frequentie van onze uitwisselingen om onze reputatie te beoordelen en onze affiniteiten op te sporen.
+Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analyseerden de kwaliteit en frequentie van onze onderlinge uitwisselingen om onze reputatie te beoordelen en ons netwerk te achterhalen.
 
-Tot slot verbergen ze zich voor het oog om de kleinste van onze verlangens, om ze te kunnen vormgeven.
+Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen en ons daarmee te manipuleren.
+
 
 Aan één zijde*** | **Above*** | **Within** | **Beneden*** |
 | --- | --- | --- | ---| --- |
@@ -48,162 +44,149 @@ Populatie*** | Representatieve steekproeven | Stemmentelling, gemeenschappen | S
 Berekeningstype*** | Vote | Classificatie naar verdienste | Benchmark | Machineeducatie |
 Principe*** | Populariteit | Autoriteit | Reputatie | Voorspelling | Populariteit
 
-Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4].
+*Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4]
 
-Deze verschillende generaties algoritmen leven nog steeds naast elkaar, en zijn goed herkenbaar in die zin dat ze ons zeer efficiënt voorzien van veel diensten.
-Ze proberen ons ons "digitaal dividend" [^5] te laten betalen omdat ze ons bestaan discreet in te delen en in de fijnst mogelijke plakjes te snijden, in volgorde van om alle monetiseerbare informatie te extraheren [^6].
+Deze verschillende generaties van algoritmen leven nog steeds naast elkaar, en zijn goed herkenbaar in die zin dat ze ons zeer efficiënt ten dienste staan via allerlei diensten.
+Ze proberen ons "digitaal dividend" [^5] te laten betalen doordat ze ons bestaan opdelen in heel fijne stukken om er zoveel mogelijk informatie uit te onttrekken.  [^6].
 
-Elke staat fokt een angstaanjagende oger die werkt in de surveillance.
-De belangen van deze ogre vaak mengen met die van haar vrienden de commerciële ogres, als het schaamteloos hun winkels overvalt, met hun goedkeuring [^7].
-Zijn onverzadigbare eetlust leidt het tot stalken die plaatsen met de meeste dataverkeer.
-Aangenomen wordt dat het in een hooiberg een terrorist moet kunnen vinden, hoewel het vaak lijdt aan bijziendheid en obesitas, blijken efficiënter bij het stelen van politieke en industriële geheimen dan bij het vangen van de slechteriken voor zij actie ondernemen.
+Elke staat kweekt een angstaanjagende monster die werkt in de surveillance.
+De belangen van dit monster vermengen zich vaak met die van haar vrienden de commerciële monsters, die met goedkeuring op schaamteloze wijze haar winkels overvalt [^7].
+Met zijn onverzadigbare eetlust stalkt hij plaatsen met de meeste dataverkeer.
 
-### Algoritmen die openbare gegevens eten
+Er wordt verondersteld dat het een terrorist in een hooiberg zou moeten vinden, hoewel het vaak lijdt aan bijziendheid en obesitas, waardoor het efficiënter blijkt in het stelen van politieke- en industriële geheimen dan in het vangen van slechteriken voor ze iets mispeuteren.
 
-De verschillende bestuurslagen van de ordestrijdkrachten cultiveren ook bloeiende tuinen met veel geparfumeerde gegevens: biometrische, fiscale, milieugegevens,
-stedelijk, professioneel of zelfs verband houdend met de gezondheid.
+### Algoritmen die publieke data vreten
 
-Blijkbaar neutraal en objectief, de openbare algoritmische wezens zou de oplossing zijn voor de verschillen in behandeling ten opzichte van de arbitrages tegen sommige ambtenaren.
-Toch kunnen ze heel worden families in kafkaiaanse insecten die in de film aan de typemachine hangen Brazilië* [^8].
-In feite zijn zij het die bepalen welke school ons kind moet gaan naar, of u sociale subsidies kunt krijgen, welke banen u kunt vinden aanvragen en als uw menstruatiecyclus rijp is om zich voort te planten.  
-De handelaars in persoonsgegevens bieden vriendelijk aan om overheidsinstanties te helpen bij de digitalisering en kloon de mooiste planten in de openbare tuin, zij het culturele bloemen of geneeskrachtige kruiden.
-Net als de handelaren, de krachten van de orde passeren van waarnemingen met betrekking tot voorspellingen, en niet alleen om de inzameling van afval te optimaliseren, maar ook om de politiediensten ook te sturen naar plaatsen waar de kans op een misdrijf het grootst is worden geëngageerd dankzij hun algohonden, PredPol CompStat of HunchLab [^9].
+De verschillende bestuurslagen die de orde in stand houden cultiveren ook bloeiende tuinen met veel geparfumeerde data: biometrische, fiscale, milieu-gerelateerd, stedelijk, professioneel of zelfs gezondheid.
 
-### Algoritmen die geld eten
+Blijkbaar zijn deze openbare algoritmische wezens neutraal en objectief, en zouden de oplossing zijn om ongelijke behandeling door sommige ambtenaren tegen te gaan. Toch kunnen ze hele families in kafkaiaanse insecten veranderen die in de film *Brasil* [^8] aan de typemachine hangen. In feite zijn zij het die bepalen naar welke school ons kind moet gaan, of u sociale bijstand kunt krijgen, voor welke banen u kunt solliciteren en of uw menstruatiecyclus op punt staat om u voort te planten.  
 
-Thomas Peterffy is een geldschieter die zich wijdde aan het vervangen van de makelaars en hun manuele handelingen met geautomatiseerde machines.
-In 1987, bij het zien van dat het aantal bestellingen geplaatst door Peterffy was verrassend hoog, de verantwoordelijken van de markten stuurde een inspecteur, die, waar hij verwachtte te vinden een kamer gevuld met blanke mannen schreeuwen en zweten, gevonden niets meer dan een IBM-computer zijn aangesloten op een Nasdaq-terminal [^10] met een schroeifunctie.
-Zo was dat in 1987, algoritmen werden op de financiële markten geïntroduceerd.
+De handelaars in persoonsgegevens bieden vriendelijk hun diensten aan overheidsinstanties om te helpen bij het ontleden en klonen van de mooiste planten in de openbare tuin, sierbloemen of geneeskrachtige kruiden.
 
-Vandaag de dag, algo-trading is overal, en de serene, algoritmische knipperen van de informatienetwerken is in de plaats gekomen van de hysterische handelaren.
-Echter, zelfs deze digitale financiële wezens zich hebben toegestaan om ingehaald door hoogfrequente algo-handelaars, die met de lichtsnelheid bewegen.
-Ze bouwen routes om sneller tot de verkoop te komen dan de anderen [^11], waardoor winst bij elke operatie.
-Op dit moment vinden ze hun toevlucht in de vele "duisternis pools" die de banken hebben kunnen vormen dankzij het paradoxale versoepeling van de regelgeving.
-In het lucratieve comfort dat soms gezien wordt in de "Flitscrashes" [^12], neemt de diversiteit aan algoritmische soorten toe (Blast,
-Sluipen, Sniffer, Iceberg, Haai, Sumo,... [^13]) op één lijn met de complexiteit van hun strategieën, waardoor de "markten" steeds onleesbaarder worden en oncontroleerbaar, ook al wordt ervan uitgegaan dat zij worden gereguleerd door de Strook van onzichtbare handen.
+Net als de handelaars gaan de ordehandhavers van observaties naar voorspellingen en niet alleen om de digitale afhaalhoop te optimaliseren, maar sturen, maar ook om politiediensten te sturen naar plaatsen waar de kans op een misdrijf het grootst is worden, dankzij hun algoritme-honden, PredPol CompStat of HunchLab [^9].
 
-### Algoritmen die menselijke hersenen eten
 
-De eindfamilie die in ons bestiarium van algoritmen geïdentificeerd moet worden, zijn de volgende wiens wil is het menselijk brein te vullen, en degenen die, integendeel,
-streven er uiteindelijk naar deze te vervangen.
-Kunstmatige intelligenties moeten worden gevoed met gegevens om mensen in een breed scala van processen te kunnen vervangen.
-Dit is iets wat Google doet met zijn reCAPTCHA [^24] project, die onleesbaar zijn
-afbeeldingen die we moeten ontcijferen en transcriberen om de server te laten zien dat we zijn geen robots, maar mensen, die de Turing test in omgekeerde richting doorstaan [^25].
-De grote innovatie van reCAPTCHA is dat het resultaat van uw antwoorden rechtstreeks om kunstmatige intelligentie en de evolutie van Google te voeden programma's: ontcijferen van tekst om de digitalisering van boeken te verbeteren, het identificeren van huisnummers om het in kaart brengen te verfijnen, en nu het identificeren van beelden met dieren of verkeersborden, om autostuurautomaten minder kortzichtig te maken.
-De de gecumuleerde resultaten worden steeds relevanter en vertegenwoordigen miljoenen uren menselijke arbeid [^26].
+### Algoritmen die geld vreten
 
-In termen van het algoritme dat bijdraagt aan het voeden van onze hersenen, is dit, als het is vriend het verzamelen van persoonlijke gegevens, steeds uitgebreider en subtiel.
-We voeden de hersenen dagelijks met behulp van een zoekmachine die ons laat zien waar vindt u de juiste plaats, de meest nauwkeurige informatie, de meest symboolvideo.
-Begin 2017: in 92,8% van de gevallen waarin wordt gezocht naar motor was Google.
-Dit maakt het tot een culturele dictator in een totaal nieuwe hegemonische positie (en wat doet de concurrentie?!).
-Niet verschijnend binnen de eerste resultaten pagina's is als niet bestaand.
-Toch is de Google-zoekopdracht algoritme is een jaloers bewaakt industrieel geheim en kan alleen worden tegengegaan rechts om vergeten te worden [^27].
+Thomas Peterffy is een investeerder die zich wijdde aan de automatisering van de verzekeringssector. Hij verving makelaars en hun manuele verrichtingen door machines.
+In 1987, toen het begon op te vallen dat het aantal geplaatst orders door Peterffy verrassend hoog waren, stuurden de verantwoordelijken van de markten er een inspecteur op af. De inspecteur dacht een zaal blanke schreeuwende en zwetende mannen aan te treffen, maar zag alleen een paar IBM-computer die aangesloten waren op een Nasdaq-terminal [^10]. En zo gebeurde het dat in 1987, algoritmen werden geïntroduceerd op de financiële markten.
 
-Uit de surrealistische ervaring van de onderzoekers in het laboratorium dat is
-Facebook [^28], die experimenten uitvoerde in 2010 op 61 miljoen gebruikers, tijdens de Amerikaanse congresverkiezingen, is het bekend dat het beheersen van de politieke berichten hebben een directe invloed op de mensen die onbewuste cavia's worden gemaakt varkens, alsmede die van hun vrienden en vrienden van vrienden.
+Vandaag de dag, is algo-trading overal. De hysterische beursmakelaars zijn vervangen door serene algoritmische knipperlichten van de informatienetwerken. Maar zelfs deze digitale financiële wezens hebben zich laten inhalen door hoge frequentie algo-traders. Deze bewegen met de snelheid van het licht en bouwen wegen om de koop- en verkoopstransacties sneller te kunnen dan de anderen [^11], waardoor er winst ontstaat bij elke operatie.
 
-Van valse nieuwsberichten die de waarheid hebben verpletterd op de sociale netwerken, uiteindelijk zwellen de gelederen van de post-truth.
-Welke politieke lijn volgt de algoritmen die de inhoud van onze "muren" bepalen?
-Oplossingen integreren problemen in verband met het aanzetten tot haat en intimidatie ook op deze platforms zullen de algoritmen en hun controllers snel in de officiële de positie om de moraal van een groot deel van de samenleving te beheersen.
+Momenteel vinden ze hun toevlucht in de vele "dark pools" (systeem om beurstransacties uit te voeren zonder publicatie)  die de banken hebben kunnen opzetten dankzij de paradoxale versoepeling van de regelgeving.
 
-One might think that to faster reach the point of technological singularity [^29], our digital creatures are crouching in the shadows and plot to make us servile.
+In het lucratieve comfort dat je soms kan zien in de "Flash Crashes" [^12], neemt de diversiteit aan soorten algoritmes toe (Blast, Stealth, Sniffer, Iceberg, Shark, Sumo,... [^13]). En vergroot ook de complexiteit van hun strategieën, waardoor de "markten" steeds minder betrouwbaar en controleerbaar worden. Ook al wordt er altijd verondersteld dat zij vanzelf worden gereguleerd door de onzichtbare hand van de markt.
 
-Algorithmic governance [^30] would be a new mode of governing behaviour, fruit of shifts in our relationship with the other, with the group, with the world, with the very sense of the things that have, thanks to or despite the digital turn, fundamental repercussions on the way norms are created, and with them, obedience [^31].
+Natuurlijk heeft dit alles een impact op de zogenaamde "echte economie", het leven van de gewone mensen.
+Neem nu bijvoorbeeld die keer dat Syrische hacker de Twitter account van het Witte Huis overnamen en een alarmerende tweet uitstuurden die onmiddellijk door algo-beursbots werd opgepikt. Dit zorgde ervoor dat de aandelenmarkten 136 miljard dollars in waarde ineenstortten in 3 minuten tijd. [^14]
 
-When an algorithm eats from the human brain, this can also lead to the clinical death of the human in question.
-This can be said of the algorithms that predefine the victims of killer drones, even if they are piloted by men and women.
-How do the algorithms of a driverless car chose the lesser evil/or number of deaths, when they are involved in an accident that cannot be avoided?
-Cyber war flies low over our occupied networks, each country sharpening its algorithms to be more and more insidiously lethal than the enemy.
+In de financiële jungle is ondertussen een nieuwer algoritmische beest opgedoken in de vorm van een worm die zich in alle ontvangende computers dupliceert en dikker wordt naarmate het wordt gebruikt. En in zijn kielzog een indrukwekkende hoeveelheid elektriciteit verbruikt.[^15]. Het wordt de "blockchain" [^16] genoemd en is ontwikkeld vanuit de "bitcoin". Het is de eerste crypto-valuta die geen centrale bankorgaan nodig heeft die gekoppeld is aan een staat. De bitcoin is vandaag 28 miljard dollar waard [^ 17].
 
-## How do we know if an algorithm is bad or good?
+Gelukkig hebben initiatieven zoals Ethereum [^18] het voor deze wormen mogelijk gemaakt om niet alleen transacties te registreren, maar ook 'slimme' databases en applicaties aan te sturen (de 'slimme contracten'). Ethereum heeft op haar beurt projecten tot stand gebracht zoals  de DAO [^19] (Decentrale Autonome Organisatie), een gedecentraliseerd beleggingsfonds zonder bestuurders, waarin iedereen kan deelnamen aan de besluitvorming in functie van zijn of haar kapitaal. Dit fonds verzamelde algauw 150 miljard dollar van verschillende investeerders.
 
-Is a bad algorithm one which turns video surveillance cameras into an army of blood-thirsty botnets that come down in droves to strangle the servers?
-Is a good algorithm one which reminds me of my friends' birthdays?
-Setting the criteria is not so simple, because we have to consider interdependence between algorithms, the data they use and the intentions behind them.
-Nevertheless, it can be hoped that a good algorithm will comply with the following:
+Toch slaagde een slecht karakter erin om een derde van dit kapitaal te stelen door misbruik te maken van de van de kwetsbaarheid  (hij definieerde het als een functionaliteit) van de code die is opgenomen in de body van de DAO-worm gehost door Ethereum. Wat doen we hiertegen? Zullen we dan maar wat stukken uit deze worm snijden en hem weer aan elkaar zetten? Of vergeten we deze en starten we met en nieuwe?
 
-- it should be “auditable” and therefore consist of open and documented source code;
-- it should be “open” and therefore only feed on sets of “open data”, that are complete and “harvestable” by others, which means access should be discriminated and should be paid for certain commercial uses;
-- it should be “loyal and fair” without the capacity to create discrimination or injustice (social [^32], gender-based [^33], etc.)  nor to damage human beings [^34];
-- it should be “transparent” [^35] and capable of conducting systematic audits of its own operations and evolution (if it has learning or predictive capabilities) and be capable of subjecting itself to citizen's control;
-- it should be “modifiable” and ready to respond to complaints that could require changes to the function of the algorithm.
+Hoewel beleggers uitgaan van het libertaire principe dat "de code de wet maakt", hebben ze toch gekozen voor de tweede oplossing zodat beleggers hun geld konden recupereren. Dit roept belangrijke juridische problemen op, met name bij het definiëren van verantwoordelijkheden in een gedecentraliseerd netwerk [^20]. Of het voorstellen van vormen van bestuur voor deze "code" die de wetten van staten op bepaalde domeinen vervangt.
 
-In deze zoektocht naar algoritmische moraliteit is het ook noodzakelijk om de "poorten", de API's (die staan voor "Application Public Interfaces") die het mogelijk maken deze digitale wezens om gegevens van andere servers en diensten op te zoeken, of om containers plaatsen of aas leggen... deze API's kunnen worden beschouwd als door een octrooi beschermd voor de industrie: een nieuwe vorm van octrooiering van anti-open-sourcesoftware.
-Deze havens kan worden geopend of gesloten naar strategisch oordeel van de eigenaar, of tolgelden kunnen ten uitvoer worden gelegd wanneer er veel verkeer van een algoritme is, indien dat het geval is monetarisering wordt opportuun.
+Dat laatste is de oplossing die werd gekozen om beleggers in staat te stellen hun geld terug te krijgen na veel "politieke" discussies, ook al werken ze vanuit de libertair principe van "the code makes the law". Dit werpt serieuze juridische vragen op, met name over verantwoordelijkheid te definiëren in een gedistribueerd netwerk [^20] of over hoe vormen van bestuur uit te denken die over deze "code" waakt die in sommige domeinen de wet vervangt.
 
-In de publieke sfeer en het maatschappelijk middenveld kunnen we ons voorstellen dat het bovenstaande genoemde criteria van openheid, transparantie, verantwoordingsplicht en aanpasbaarheid zou op een dag gerespecteerd kunnen worden.
-Dit is moeilijker voor te stellen in het lucratieve, privésfeer, waar gegevens en de algoritmen die deze verbruiken, worden verwerkt beschouwd als "de olie van de toekomst" [^36].
+Andere algoritmische beesten zijn dol op geld en proberen menselijke arbeid te vervangen, zodat productiviteit verhoogd kan worden en kosten  verminderd; en zo bij te dragen aan een grotere concentratie van kapitaal. De grote bedrijven hebben het heel goed begrepen, en dat is hoe Foxconn de vervanging aankondigt van bijna al zijn werknemers door een miljoen robots [^21] en het BakerHostetler Law Firm neemt ROSS een kunstmatige intelligentie aan om de complexe juridische dossiers sneller te bestuderen [^22]. Het "eind van arbeid" is ook al uitgeroepen [^23] maar het economische- en sociale regime dat dit zou moeten opvangen, laat nog op zich wachten.
 
-Zo een groep Amerikaanse onderzoekers en enkele "reuzen" van de digitale wereld hebben geprobeerd de "principes voor verantwoordelijke algoritmen" [^37] te formuleren en zij zijn bijeengekomen om een ontmoeting aan te gaan over de ethiek van het artificiële intelligentie [^38].
-Dit is een goede manier om tegen politici en betrokkenen te zeggen burgers dat de private sector hierop kan "anticiperen en administreren".
-complexiteit met positieve resultaten, dus er is echt geen behoefte aan wetgeving.
+### Algoritmen die menselijke hersenen vreten
 
-Het gaat er echter niet om transparantie te eisen voor de code van het algoritmen, maar eerder voor hun doelen.
-Aangezien deze niet beperkt zijn tot commerciële communicatie, is het noodzakelijk om de wet in te zetten als dwangmiddel [^39].
-We kunnen ons troosten in het participatieve debat dat in Frankrijk plaatsvindt over het "recht van de digitale republiek" dat heeft geleid tot de verplichting om transparantie met betrekking tot alle algoritmen die gebruikt worden door de orderkrachten [^40], of zelfs het "TransAlgo"-initiatief van INRIA [^41], dat de volgende aspecten wil beoordelen verantwoordingsplicht en transparantie van informatierobots.
+De laatste variëteiten die we binnen onze algoritmische bestiarium treffen, wensen het menselijk brein op te vullen en degenen die dat willen kunnen het zelfs volledig vervangen. Kunstmatige intelligenties moeten worden gevoed met goede gegevens om mensen te kunnen vervangen in een groot aantal processen.
+Dit is wat Google doet met zijn reCAPTCHA [^24]project, die afbeeldingen die we moeten ontcijferen en transcriberen om de server te laten weten dat we geen robots zijn, maar een mens,die de Turingtest in omgekeerde richting heeft doorstaan [^25].
 
-## soevereine algoritmische futurutopieën
+De grote innovatie van reCAPTCHA is dat het resultaat van jouw antwoorden direct wordt gebruikt om kunstmatige intelligentie te trainen en de evolutie van verdere Google projecten te steunen: we ontcijferen slaafs tekstfragmenten om de digitalisering van boeken te verbeteren, huisnummers te identificeren, om de nauwkeurigheid van de kaart verder te verfijnen. En recent identificeren we ook beelden met dieren of verkeersborden, om autonome voortuigen van hun bijziendheid af te helpen. Alles bij elkaar worden de resultaten alsmaar relevanter en vertegenwoordigen miljoenen uren onbetaalde menselijke arbeid [^26].
 
-Dus, hoe gaan we van een algoritmisch beest dat we moeten lijden aan een huisdier dat we veevoer?
-Laten we een paar regenwormen composteren om de biotechnologische vertakkingen die mannen en technologie ertoe aanzetten in siliciumharmonie te leven.
-Hoe kunnen we ons lot weer in eigen handen nemen, onze mentale autonomie heroveren, onze technologische soevereiniteit, die vandaag de dag wordt gedreven door algoritmen in de ruimte van sociale controle.
+In termen van het algoritme dat bijdraagt aan het voeden van onze hersenen, is dit, als een vriend die jouw persoonlijke gegevens verzameld, en steeds uitgebreider en subtieler te werk gaat. Onze hersenen worden dagelijks gevoed met behulp van een zoekmachine die laat zien waar de meest geschikte locatie is, de meest nauwkeurige informatie, de meest passende video.
 
-Code is een politieke doelstelling, zoals in deze "numerieke" wereld gevuld met algo-bots die onze realiteit binnendringen.
-Als politieke objecten kunnen we daarom aanval met de klassieke wapens: militantie, lobby en bewustmaking politieke macht, pogingen om de regelgeving te beïnvloeden en te verdiepen processen en het waarderen van initiatieven die bijdragen aan autonomie en geluk voor mensen.
-Even belangrijk is het om een belangrijkere rol te eisen voor het maatschappelijk middenveld bij de regulering van en normen voor het internet, en de goedkeuring van normen voor netwerktechnologie [^42], waarbij het equivalent wordt genomen van een artikel van de grondwet van een land als voorbeeld.
+Begin 2017: was Google de zoekmachine die in 92,8% van de gevallen werd gebruikt om iets online op te zoeken. Dit transformeert hem in een culturele dictator met een volledig ongewone hegemonische positie (maar wat doen de regulerende autoriteiten met deze concurrentie ?!). Als je niet verschijnt in de eerste resultaten op Google dan besta je niet. Het zoekalgoritme van Google is echter een industrieel geheim dat nauwlettend wordt bewaakt. Enkel het recht om vergeten te worden kan er tegenin gaan[^27].
 
-Op individueel niveau is het zonder enige twijfel noodzakelijk om het "dogliseren" van de Internet [^43].
-Dit betekent, zoals de vereniging Framasoft voorstelt, dat zij steun zal verlenen aan het onderbrengen van autonome, transparante, open, neutrale en op solidariteit gebaseerde diensten (zie bijvoorbeeld het KITTENS initiatief [^44]), of self-hosting [^45] in een onambitieuze miniserver.
-Het is ook mogelijk om jezelf te camoufleren met end-to-endencryptie, hoewel deze niet altijd aanpasbaar en ook niet mogelijk is aan adopteren (PGP en e-mails); en afhankelijk van de situatie kunnen er resources zijn om interferentie te creëren, in een poging om de "echte" gegevens te verbergen binnen fictieve maar geloofwaardige gegevens, die een vriendelijk algoritme in overvloed kan leveren.
+Het  surrealistische experiment dat werd uitgevoerd in 2010, tijdens de Amerikaanse congresverkiezingen, op meer dan 61 miljoen gebruikers, door onderzoekers van het Facebook[^28], liet zien dat het manipuleren van politieke mobilisatieboodschappen een directe invloed heeft op de stem van de mensen, evenals die van hun vrienden en vrienden van vrienden. Nu "fake nieuws" het echte nieuws vervangt en de post-waarheid rangen doen aanzwellen, kunnen we ons afvragen tot welke politieke kant de algoritmen behoren die beslissen welke publicaties op onze "muren" verschijnen?
 
-Vanuit het oogpunt van de publieke macht is er werk aan de winkel, de weg naar ethische transparantie is open, zij hoeft alleen maar stevig onder druk te worden gezet.
-Van natuurlijk heb je tegenwoordig een vreemd kapsel en make-up [^46] nodig om te ontsnappen aan de gezichtsherkenningssystemen [^47].
-Biometrische bestanden en de koppeling van openbare gegevens databanken en de digitale afgeleide instrumenten van de noodtoestand, die nu permanent, nodig ons uit om niet al onze bytes in een mand.
+De problemen van intimidatie en haatzaaierij op deze sociale mediaplatforms plaatsen algoritmen en hun ontwerpers in de positie van morele censoren van een groot deel van de samenleving.
 
-Het is ook mogelijk om deel te nemen aan het voederen van afval aan deze "algo-AI", gewoon zoals de Twitter-gebruikers die erin geslaagd om Microsoft's AI TAY seksistische, racistische en pro-Hitler in minder dan een dag [^48].
+Je zou kunnen vermoeden dat om het punt van de technologische singulariteit [^29] te bespoedigen, dit soort digitale wezens in de schaduw op de loer liggen en samenzweren om ons te onderwerpen.
 
-We could imagine instead raising little “algo-ponies” that would exclaim, with a wave of their multi-coloured manes, against a background of green fields of data, that “friendship is magic!”.
+Algoritmisch bestuur [^30] zou een nieuwe manier van regeren zijn, vrucht van verschuivingen in onze relatie met de ander, met de groep, met de wereld, met het gevoel zelf van de dingen die dankzij of ondanks de digitale wending. fundamentele gevolgen heeft voor de manier waarop normen en gehoorzaamheid tot stand komen.[^31].
 
-Kaaszucht buiten beschouwing gelaten, is het misschien nodig om een digitale tussenpersoon voor te stellen, een "proxy" tussen ons, onze gegevens en de publieke en private actoren die hen ontvangen.
-Deze tussenpersoon zou Eliza [^49], mijn strikt persoonlijke AI, gemakkelijk kunnen hosten.
-die zich voedt met mijn activiteiten en voorkeuren om mij te helpen gegevens beter te delen en inhoud, anoniem, waarbij deze als algemene informatie aan overheidsinstanties worden verstrekt interesseren, versleutelen of verbergen om te ontsnappen met mijn vrienden die niet erin slagen om uit de commerciële sociale netwerken.
-Uitgedeeld in ieders portemonnee, persoonlijke AI's zouden symbiotisch kunnen worden, in overeenstemming met hun docenten, om de mensheid microficties te vertellen op politiek en cultureel gebied context, met het oog op het bouwen van harmonieuze realiteiten waar algoritmen,
-De mens, de natuur en de anorganische wereld kunnen vreedzaam samenleven.
+Als een algoritme uit het menselijk brein eet, kan dit ook leiden tot de klinische dood van de persoon in kwestie. Een voorbeeld hiervan zijn de algoritmes die de slachtoffers van gewapende drones vooraf definiëren, ook al worden ze bestuurd door mannen en vrouwen. Hoe kiezen de algoritmes van een auto zonder bestuurder het minst aantal doden wanneer ze bij een ongeval betrokken zijn? Deze cyberoorlog hangt laag boven onze bezette netwerken en elk land scherpt zijn algoritmen aan om in het geniep toch maar dodelijker te zijn dan de tegenstander.
 
-[^1] Deze titel verwijst naar het boek van Cathy O'Neil: Wapens van wiskunde
-    Vernietiging: Hoe Big Data de ongelijkheid en bedreigingen vergroot
-    Democratie*. Kroon, 2016.
+## Hoe weten we of een algoritme slecht of goed is?
 
-[^2] In deze futuristische roman van Isaac Asimov hebben de Verenigde Staten zich geconverteerd naar een "elektronische democratie", waarbij de computer Multivac één enkele code selecteert persoon om een aantal vragen te beantwoorden. Multivac zal dan de antwoorden en andere gegevens om te bepalen wat de uitslag van een verkiezing zou zijn zijn, waarbij moet worden voorkomen dat er daadwerkelijk verkiezingen moeten worden gehouden gehouden. https://en.wikipedia.org/wiki/Franchise_%28short_story%29
+Is een slecht algoritme er één dat videobewakingscamera's verandert in een leger van bloeddorstige botnets die in drommen naar beneden komen om de servers te wurgen? Is het een goed algoritme er één dat mij herinnert aan de verjaardagen van mijn vrienden?
+Het vaststellen van criteria om een keuze te maken is niet zo eenvoudig, omdat we goed moeten kijken naar de onderlinge verbanden tussen algoritmen, de gegevens die ze gebruiken en de bedoelingen erachter.
 
-[^3] https://fr.wikipedia.org/wiki/Bestiaire
+Niettemin kan worden gehoopt dat een goed algoritme aan het volgende zal voldoen:
+- ze moet "controleerbaar" zijn en daarom bestaan uit een openbare en gedocumenteerde broncode;
+- ze moet "open" zijn en daarom alleen gebaseerd zijn op datasets van "open data", die volledig en "herbruikbaar" zijn voor anderen. Dit betekent dat de toegang moet worden verhinderd door financiële barrières op te werpen indien er bepaalde commerciële belangen in het spel zijn;
+- ze moet "loyaal en eerlijk" zijn zonder het vermogen discriminatie of onrecht (op sociaal gebied[^32], gendergebied [^33], enz.) te creëren of om mensen potentieel schade te berokkenen [^34];
+- ze moet "transparant" zijn [^35] en in staat om systematisch audits uit te voeren van haar eigen operaties en evolutie (indien het leer- of voorspellend vermogen heeft) en in staat is om zichzelf te onderwerpen aan de controle van de burger;
+- ze moet "aanpasbaar" zijn en de mogelijkheid bieden om op klachten te reageren indien er wijzigingen van het algoritme nodig zouden zijn.
 
-[^4] Dominique Cardon: Een quoi rêvent les algoritmes. Nos vies à l'heure: Nrs.  vies à l'heure des big data*. Le Seuil, 2015.
+In deze expeditie op zoek naar algoritmische moraliteit is het ook noodzakelijk om de "poorten", de API's (Application Programming Interfaces), die het deze digitale wezens mogelijk maken om gegevens van andere servers en diensten te laten opzoeken, of om pakketjes informatie beschikbaar te stellen of lokaas te leggen... Deze API's gebruiken vaak open-source softwarepatenten waarmee hun eigenaren naar eigen goeddunken hun deuren kunnen openen of sluiten. Ze kunnen ook een tol eisen wanneer er veel algoritme verkeer is en het genereren van inkomsten,opportuun wordt.
 
-[^5] Evgenij Morozov en Paas: *Le mirage numérique: Gieten une politique du Big Data*. Les Prairies Ordinaires, 2015.
+In de publieke sfeer en het maatschappelijk middenveld kunnen we ons voorstellen dat de criteria van openheid, transparantie, verantwoordelijkheid, aanpasbaarheid worden toegepast en gerespecteerd. Maar voor de privé - en commerciële sector is het ingewikkelder om zich zoiets voor te stellen zeker nu data en algoritmen "de olie van de toekomst" [^36] zijn geworden ...
+
+Zodoende heeft een groep Amerikaanse onderzoekers en enkele grote digitale bedrijven geprobeerd de 'principes voor verantwoorde algoritmen' te formuleren. Ze zijn samengekomen om een proces op gang te brengen over de ethiek van kunstmatige intelligenties [^37] en hebben gezamenlijk de handschoen opgepakt om te werken aan een ethisch grondvest voor artificiële intelligentie [^38].
+Dit is een goede manier om politici en bezorgde burgers te kennen te geven dat de private sector hierop kan "anticiperen en beheren" en complexiteit het hoofd kan bieden met positieve resultaten, en dat er echt geen behoefte is aan wetgeving.
+
+Het gaat er echter niet om transparantie te eisen voor de code van de algoritmen, maar eerder om het blootleggen van hun doelen en motivatie. Aangezien deze niet beperkt zijn tot commerciële communicatie, is het noodzakelijk om beroep te doen op de wet als dwangmiddel [^39]. We kunnen ons getroosten met het participatieve debat dat in Frankrijk plaatsvindt over het "De wet van de digitale republiek" dat heeft geleid tot een verplichting tot transparantie met betrekking tot alle algoritmen die gebruikt worden door de ordediensten [^40], of zelfs het "TransAlgo"-initiatief van INRIA [^41], dat streeft naar verantwoordingsplicht en transparantie van informatierobots.
+
+
+## soevereine algoritmische utopieën
+
+Dus, hoe gaan we van een algoritmisch monster dat we lijdzaam moeten ondergaan de omslag maken naar een huisdier dat we brokjes voederen? Composteren we wat regenwormen om de biotechnologische consequenties te tekenen dat mannen en technologie zal aanzetten in een siliciumharmonie te leven? Hoe kunnen we ons lot weer in eigen handen nemen, onze mentale autonomie, onze technologische soevereiniteit, die vandaag de dag wordt aangedreven door algoritmen in de ruimte van sociale controle?
+
+Code is politiek, die deze "numerieke" wereld vullen met algo-bots die onze realiteit binnendringen. Deze politieke objecten, kunnen we daarom best te lijf gaan met de klassieke instrumenten: via militante actie, lobbyen en bewustmakingscampagnes gericht op de politieke macht. We moeten inspanningen leveren om regelgeving te beïnvloeden en op te roepen tot het verdiepen van regulerende processen en het actief waarderen van initiatieven die bijdragen aan autonomie en geluk voor de gehele mensheid.
+
+Even belangrijk is de eis om meer nadruk te leggen op de rol die het maatschappelijk middenveld kan spelen bij de regulering van het internet en het vastleggen van de normen voor netwerktechnologie [^42]. De grondwetsartikelen kunnen als voorbeeld dienen voor het opstellen van zo'n normering.
+
+Op individueel niveau is het zonder enige twijfel noodzakelijk om het Internet te "ont-googlen" [^43]. Dit betekent, zoals de vereniging Framasoft voorstelt, steun verlenen aan het hosten van autonome, transparante, open, neutrale en op solidariteit gebaseerde diensten (zie bijvoorbeeld het KITTENS initiatief [^44]), of self-hosting [^45] in een eenvoudige miniserver.
+Het is ook mogelijk om je communicatie te camoufleren met end-to-endencryptie, hoewel dat niet altijd bruikbaar en mogelijk is om in te zetten (PGP en e-mails); en afhankelijk van de situatie  zijn er ook middelen om ruis te veroorzaken. Zo kan je de "echte" gegevens verstoppen binnen fictieve maar geloofwaardige gegevens, waar een medeplichtig algoritme in overvloed voor kan zorgen.
+
+Veel werk aan de winkel dus voor de overheid. De weg naar ethische transparantie is duidelijk, het is alleen nodig om ze stevig onder druk te zetten. Vandaag de dag heb je een vreemd kapsel en make-up [^46] nodig om te ontsnappen aan de gezichtsherkenningssystemen [^47].
+Biometrische bestanden gekoppeld aan databases vol openbare, beschikbare gegevens en digitale afgeleide instrumenten die gebruikt werden na het instellen van de noodtoestand - die nu permanent lijkt te zijn - maken het duidelijk dat het verstandig is om al je gegevens niet in dezelfde mand te plaatsen.
+
+Het is ook mogelijk om de "algo-AI" aan te pakken door ze te voorzien van bergen onzinnige informatie. Zo is er bijvoorbeeld de groep Twitter-gebruikers die erin slaagden om TAY, de AI van Microsoft, seksistische, racistische en pro-Hitler uitspraken te ontlokken in minder dan een dag [^48]. Of nog beter kleine "algo-ponies" maken die met hun golvende veelkleurige manen, tegen een achtergrond van groene datavelden, ons doen herinneren dat "vriendschap magisch is!"
+
+Even deze flauwe uitstap buiten beschouwing gelaten, is het misschien ook nodig om een digitale tussenpersoon voor te stellen, een "proxy" die tussen ons en onze gegevens staat en de publieke en private actoren die ze hosten. Deze proxy zou Eliza [^49], mijn strikt persoonlijke AI. Zij voedt zich met mijn activiteiten en voorkeuren om mij te helpen mijn gegevens en inhoud beter te delen, waarbij deze informatie deels anoniem en belangeloos aan publieke instanties wordt verstrekt, en anders versleuteld of gecamoufleerd wordt verstuurd. Zo kan ik verder blijven communiceren met mijn vrienden die er niet in slagen om zich van de commerciële sociale netwerken te ontdoen.
+
+In ieders broekzak, zouden persoonlijke AI's symbiotisch kunnen worden, met instemming van hun mentors. En de mensheid microficties vertellen die is aangepast aan hun politieke en culturele context. Met als doel het bouwen van harmonieuze realiteiten, waar algoritmen, de mens, de natuur en de anorganische wereld vreedzaam kunnen samenleven.
+
+
+[^1] Deze titel verwijst naar het boek van Cathy O’Neil: *Weapons of Math Destruction*:
+     Hoe Big Data de ongelijkheid vergroot en een bedreiging is voor de Democratie*. Crown, 2016.
+
+[^2] In deze futuristische roman van Isaac Asimov hebben de Verenigde Staten zich omgevormd tot een "elektronische democratie", waarbij de computer Multivac één enkele persoon selecteert om een aantal vragen te beantwoorden. Multivac zal dan op basis van de antwoorden en andere gegevens bepalen wat de uitslag van een verkiezing zou zijn, zodat de noodzaak van daadwerkelijk verkiezingen wegvalt. https://en.wikipedia.org/wiki/Franchise_%28short_story%29
+
+[^3] https://nl.wikipedia.org/wiki/Bestiarium
+
+[^4] Dominique Cardon: *A quoi rêvent les algorithmes. Nos vies à l’heure: Nos vies à l’heure des big data*. Le Seuil, 2015.
+
+[^5] Evgenij Morozov en Pascale Haas: *Le mirage numérique: Gieten une politique du Big Data*. Les Prairies Ordinaires, 2015.
 
 [^6] http://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
 
-[^7] https://fr.wikipedia.org/wiki/PRISM_%28programme_de_surveillance%29
+[^7] https://nl.wikipedia.org/wiki/PRISM
 
-[^8] Terry Gilliam: Brazilië (1985). http://www.imdb.com/title/tt0088846/
+[^8] Terry Gilliam: Brasil (1985). http://www.imdb.com/title/tt0088846/
 
-[^9] Cathy O'Neil: Wapens van de dood vernietiging: Hoe groot de gegevensverhogingen Ongelijkheid en bedreiging van de democratie*. Kroon, 2016.
+[^9] Cathy O’Neil: *Weapons of Math Destruction: Hoe Big Data de ongelijkheid vergroot en een bedreiging is voor de Democratie*. Crown, 2016.
 
-[^10] Enkele dagen later bepaalde hij dat de bestellingen van de toetsenbord van de terminal en gaf Peterfly een week om af te sluiten van
-    IBM. In die tijd nam Peterffy ingenieurs in dienst om een camera-oog te bouwen om het scherm te lezen en de informatie naar de IBM hersenen te sturen waar elektromagnetische handen konden nemen de orders en sturen ze naar de aansluiting via het toetsenbord.
+FIXME
+[^10] Enkele dagen later besefte hij dat de opdrachten moest komen via het toetsenbord van de terminal en gaf hij Peterfly een week om zich af te sluiten van IBM. In die tijd nam Peterffy ingenieurs in dienst om een camera te bouwen die het scherm kon aflezen en de informatie naar de IBM hersenen te sturen waar elektromagnetische handen de orders konden opnemen en doorsturen naar de aansluiting via het toetsenbord.  
+[^11] Sluipschutter in Mahwah: Antropologie, marktstructuur & de aard van beurzen. https://sniperinmahwah.wordpress.com/
 
-[^11] Sluipschutter in Mahwah: Antropologie, marktstructuur & de aard van
-    beurzen. https://sniperinmahwah.wordpress.com/
-
-[^12] SDe Flash Crash van 6 mei 2010 geanalyseerd door Nanex: http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html en https://www.youtube.com/watch?v=E1xqSZy9_4I
+[^12] De Flash Crash van 6 mei 2010 geanalyseerd door Nanex: http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html en https://www.youtube.com/watch?v=E1xqSZy9_4I
 
 [^13] Laumonier Alexandre: *5/6*. Zones Sensibles edities, 2014. 
     http://www.zonessensibles.org/livres/6-5/ 
  
 [^14] https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackersclaim-ap-hack-that-tipped-stock-market-by-136-billion-is-it-terrorism/ 
  
-[^15] Dit schepsel is zo duur (een enkele handeling vereist zo veel elektriciteit als een gemiddeld Amerikaans huis verbruikt in anderhalve dag), dat het is voornamelijk in China gevestigd en verloopt momenteel zeer traag.  http://motherboard.vice.com/read/bitcoin-is-unsustainable 
+[^15] Dit schepsel is zo duur (een enkele transactie vereist zo veel elektriciteit als een gemiddeld Amerikaans huis verbruikt in anderhalve dag). Het is voornamelijk in China gevestigd en verloopt momenteel zeer traag.  http://motherboard.vice.com/read/bitcoin-is-unsustainable 
  
 [^16] https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-thetheory.html 
  
@@ -211,20 +194,19 @@ De mens, de natuur en de anorganische wereld kunnen vreedzaam samenleven.
  
 [^18] https://www.ethereum.org/ 
  
-[^19] https://en.wikipedia.org/wiki/The_DAO_%28organization%29 
- 
+[^19] https://en.wikipedia.org/wiki/The_DAO_(organization)
+
 [^20] Primavera De Filippi: "Ethereum: Freenet of Skynet?". Berkman Center, 2014. https://cyber.harvard.edu/events/luncheon/2014/04/difilippi 
  
 [^21] http://www.theverge.com/2016/12/30/14128870/foxconn-robots-automation-appleiphone-china-manufacturing 
  
 [^22] https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-thenewly-hired-legal-robot/ 
- 
-[^23] Bernard Stiegler: La Société automatique. L'avenir du travail.* Fayard, 2015. 
+[^23] Bernard Stiegler: *La Société automatique. L'avenir du travail.* Fayard, 2015. 
 http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lavenir-du-travail-11454 
  
 [^24] https://www.google.com/recaptcha/intro/index.html 
 
-[^25] https://en.wikipedia.org/wiki/Turing_test
+[^25] https://nl.wikipedia.org/wiki/Turingtest
 
 [^26] http://www.bizjournals.com/boston/blog/techflash/2015/01/massachusettswomans-lawsuit-accuses-google-of.html
 
@@ -232,7 +214,7 @@ http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lave
 
 [^28] A 61-million-person experiment in social influence and political mobilization: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
-[^29] https://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique
+[^29] https://nl.wikipedia.org/wiki/Technologische_singulariteit
 
 [^30] Antoinette Rouvroy and Thomas Berns: “Gouvernementalité algorithmique et perspectives d'émancipation: Le disparate comme condition d'individuation par la relation?”. Politics of algorithms.  Web-metrics.  *RESEAUX*, Vol.31, n.177, pp. 163-196 (2013). http://works.bepress.com/antoinette_rouvroy/47/
 
@@ -242,7 +224,7 @@ http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lave
 
 [^33] http://www.genderit.org/feminist-talk/algorithmic-discrimination-andfeminist-politics
 
-[^34] https://fr.wikipedia.org/wiki/Trois_lois_de_la_robotique
+[^34] https://nl.wikipedia.org/wiki/Drie_wetten_van_de_robotica
 
 [^35] http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparencede-linformation/
 
